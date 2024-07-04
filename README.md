@@ -2,6 +2,7 @@
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning Nuxt, Docker and GraphQL
+  
 <!--
 **abstractHunter/abstractHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

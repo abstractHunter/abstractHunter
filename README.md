@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 🌱 Currently learning Data Science and Machine Learning
 <!--
 **abstractHunter/abstractHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
